@@ -1,9 +1,11 @@
 # Diagrams as Code
 
-## Goal 1: See a mermaid diagram render in GitHub inside a markdown file
+## Render a mermaid diagram in GitHub
 ### a mermaid diagram
 
 ```mermaid
 graph 
 a --> b;
 ```
+
+## Goal 2
