@@ -4,5 +4,4 @@
 ### a mermaid diagram
 ```graph
 a --> b;
-b --> a;
 ```
