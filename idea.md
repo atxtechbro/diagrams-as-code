@@ -8,6 +8,18 @@ graph
 a --> b;
 ```
 
+```mermaid
+sequenceDiagram
+a --> b: am i alone?
+b --> a: i see you
+```
+
+```mermaid
+sequenceDiagram
+    Alice-->John: Hello John, how are you?
+    John-->>Alice: Great!
+```
+
 # Diagrams as Code 2.0
 > "Separate the content from the presentation"
 >
